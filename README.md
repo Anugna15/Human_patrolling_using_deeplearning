@@ -20,7 +20,7 @@ Installation and Usage
 Clone the Repository:
 bash
 Copy code
-git clone https://github.com/yourusername/human-patrolling-using-drones.git
+git clone https://github.com/yourusername/human-patrolling-using-deeplearning.git
 Install Dependencies:
 bash
 Copy code
